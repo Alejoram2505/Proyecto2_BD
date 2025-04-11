@@ -2,7 +2,20 @@
 INSERT INTO usuarios (nombre, correo) VALUES
 ('Juan Pérez', 'juan@example.com'),
 ('María López', 'maria@example.com'),
-('Carlos Gómez', 'carlos@example.com');
+('Carlos Gómez', 'carlos@example.com'),
+('Ana Torres', 'ana@example.com'),
+('Luis Fernández', 'luis@example.com'),
+('Pedro García', 'pedro@example.com'),
+('Sofía Martínez', 'sofia@example.com'),
+('Ricardo Sánchez', 'ricardo@example.com'),
+('Laura Rodríguez', 'laura@example.com'),
+('Carlos Ramírez', 'carlosr@example.com'),
+('Lucía Hernández', 'lucia@example.com'),
+('Fernando Díaz', 'fernando@example.com'),
+('Carmen Pérez', 'carmen@example.com'),
+('Raúl Gómez', 'raul@example.com'),
+('Elena Fernández', 'elena@example.com');
+
 
 -- Insertar evento
 INSERT INTO eventos (nombre, fecha, lugar) VALUES
